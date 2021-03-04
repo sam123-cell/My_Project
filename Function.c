@@ -7,3 +7,7 @@ MyFeature()
 {
 	//myfeature1 code
 }
+MyFeature2()
+{
+	//myfeature2 code
+}
